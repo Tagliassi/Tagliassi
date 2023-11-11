@@ -1,23 +1,26 @@
 ## Hi, i'm Rafael Galafassi, bachelor's student in information systems at the Pontifical Catholic University of Paraná!
 
+<p><img align="right" height="195" width="500"src="https://github-readme-stats.vercel.app/api/top-langs?username=tagliassi&show_icons=true&locale=en&layout=compact&theme=gotham" alt="tagliassi"/</p>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=tagliassi&show_icons=true&theme=gotham"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=tagliassi&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=tagliassi&show_icons=true" />
 </picture>
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Rafa-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.bleepstatic.com/content/hl-images/2021/05/10/thumb/170x170_GitHub-headpic.jpg">
 </div>
   
