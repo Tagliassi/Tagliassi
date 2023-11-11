@@ -2,12 +2,12 @@
 
 <!-- GitHub Stats -->
 <div style="display: flex;">
-  <div>
+  <div style="flex: 1;">
     <p>
-      <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=tagliassi&show_icons=true&locale=en&layout=compact&theme=gotham" alt="tagliassi"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tagliassi&show_icons=true&locale=en&layout=compact&theme=gotham" alt="tagliassi"/>
     </p>
   </div>
-  <div>
+  <div style="flex: 1;">
     <picture>
       <source 
         srcset="https://github-readme-stats.vercel.app/api?username=tagliassi&show_icons=true&theme=gotham"
@@ -17,7 +17,7 @@
         srcset="https://github-readme-stats.vercel.app/api?username=tagliassi&show_icons=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img height="150" width="400" src="https://github-readme-stats.vercel.app/api?username=tagliassi&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=tagliassi&show_icons=true" />
     </picture>
   </div>
 </div>
