@@ -1,7 +1,7 @@
 ## Hi, i'm Rafael Galafassi, bachelor's student in information systems at the Pontifical Catholic University of Paraná!
 
 <p><img align="right" height="150" width="500"src="https://github-readme-stats.vercel.app/api/top-langs?username=tagliassi&show_icons=true&locale=en&layout=compact&theme=gotham" alt="tagliassi"/</p>
-<picture>
+<picture align="left">
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=tagliassi&show_icons=true&theme=gotham"
   media="(prefers-color-scheme: dark)"
