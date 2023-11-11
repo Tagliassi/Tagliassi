@@ -1,15 +1,15 @@
 <!-- Hi, I'm Rafael Galafassi, a bachelor's student in information systems at the Pontifical Catholic University of Paraná! -->
 
 <!-- GitHub Stats -->
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tagliassi&show_icons=true&locale=en&layout=compact&theme=gotham" alt="tagliassi"/>
+<div class="github-stats" style="display: flex; height: 300px;">
+  <div style="flex: 1; width: 50%;">
+    <p style="width: 100%; height: 100%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tagliassi&show_icons=true&locale=en&layout=compact&theme=gotham" alt="tagliassi_most_used_languages" style="width: 46%; height: 100%;" />
     </p>
   </div>
-  <div style="flex: 1;">
-    <picture>
-      <source 
+  <div style="flex: 1; width: 50%;">
+    <picture style="width: 100%; height: 100%;">
+      <source
         srcset="https://github-readme-stats.vercel.app/api?username=tagliassi&show_icons=true&theme=gotham"
         media="(prefers-color-scheme: dark)"
       />
@@ -17,7 +17,7 @@
         srcset="https://github-readme-stats.vercel.app/api?username=tagliassi&show_icons=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=tagliassi&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=tagliassi&show_icons=true" style="width: 100%; height: 100%;" />
     </picture>
   </div>
 </div>
