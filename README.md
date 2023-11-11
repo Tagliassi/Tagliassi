@@ -1,6 +1,5 @@
 ## Hi, i'm Rafael Galafassi, bachelor's student in information systems at the Pontifical Catholic University of Paraná!
 
-<p><img align="right" height="150" width="500"src="https://github-readme-stats.vercel.app/api/top-langs?username=tagliassi&show_icons=true&locale=en&layout=compact&theme=gotham" alt="tagliassi"/</p>
 <picture align="left">
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=tagliassi&show_icons=true&theme=gotham"
@@ -12,6 +11,8 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=tagliassi&show_icons=true" />
 </picture>
+
+<p><img align="left" height="150" width="500"src="https://github-readme-stats.vercel.app/api/top-langs?username=tagliassi&show_icons=true&locale=en&layout=compact&theme=gotham" alt="tagliassi"/</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
